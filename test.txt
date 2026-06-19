@@ -1,6 +1,3 @@
 xxx
-<<<<<<< HEAD
 master
-=======
-juice wrld
->>>>>>> testbranch
+first
